@@ -1,3 +1,13 @@
-<<<<<<< HEAD
-Hello Professor!
->>>>>>> 25fae6ec66382dcf369ad32ff7d5ce6e7df8e177
+# Project Install Instructions
+
+# install
+
+1. clone
+2. pip install -r requirements.txt
+
+# Testing
+
+1. pytest
+2. pytest  --pylint
+3. pytest --pylint --cov
+
